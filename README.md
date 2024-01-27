@@ -1,5 +1,8 @@
 # uwsb-marcin
 
 Hello world!
-Ala ma kota,
 Kot ma Ale.
+
+
+
+Plik zmodyfikowany przez kogoś innego
